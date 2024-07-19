@@ -1,0 +1,214 @@
+>>> CONNECT www.cnn.com:443 HTTP/1.1
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT media.cnn.com:443 HTTP/1.1
+>>> CONNECT media.cnn.com:443 HTTP/1.1
+>>> CONNECT media.cnn.com:443 HTTP/1.1
+>>> CONNECT media.cnn.com:443 HTTP/1.1
+>>> CONNECT media.cnn.com:443 HTTP/1.1
+>>> CONNECT media.cnn.com:443 HTTP/1.1
+>>> CONNECT cdnjs.cloudflare.com:443 HTTP/1.1
+>>> CONNECT cdn.optimizely.com:443 HTTP/1.1
+>>> CONNECT lightning.cnn.com:443 HTTP/1.1
+>>> CONNECT cdn.cookielaw.org:443 HTTP/1.1
+>>> CONNECT s.ntv.io:443 HTTP/1.1
+>>> CONNECT z.cdp-dev.cnn.com:443 HTTP/1.1
+>>> CONNECT get.s-onetag.com:443 HTTP/1.1
+>>> CONNECT a.jsrdn.com:443 HTTP/1.1
+>>> CONNECT registry.api.cnn.io:443 HTTP/1.1
+>>> CONNECT cdn.cookielaw.org:443 HTTP/1.1
+>>> CONNECT cdn.jsdelivr.net:443 HTTP/1.1
+>>> CONNECT www.ugdturner.com:443 HTTP/1.1
+>>> CONNECT segment-data-us-east.zqtk.net:443 HTTP/1.1
+>>> POST http://r3.o.lencr.org/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT healthguides.cnn.com:443 HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> CONNECT cadmus.script.ac:443 HTTP/1.1
+>>> CONNECT collector.cdp.cnn.com:443 HTTP/1.1
+>>> CONNECT zion.api.cnn.io:443 HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> CONNECT www.i.cdn.cnn.com:443 HTTP/1.1
+>>> CONNECT collector.cdp.cnn.com:443 HTTP/1.1
+>>> CONNECT i.clean.gg:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/s/gts1d4/2wcAVrLO1m4 HTTP/1.1
+>>> CONNECT a125375509.cdn.optimizely.com:443 HTTP/1.1
+>>> CONNECT dpm.demdex.net:443 HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> CONNECT static.chartbeat.com:443 HTTP/1.1
+>>> CONNECT cdn3.optimizely.com:443 HTTP/1.1
+>>> CONNECT js-sec.indexww.com:443 HTTP/1.1
+>>> CONNECT static.chartbeat.com:443 HTTP/1.1
+>>> CONNECT live.rezync.com:443 HTTP/1.1
+>>> CONNECT c.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT ads.stickyadstv.com:443 HTTP/1.1
+>>> CONNECT ads.stickyadstv.com:443 HTTP/1.1
+>>> CONNECT widgets.outbrain.com:443 HTTP/1.1
+>>> CONNECT jadserve.postrelease.com:443 HTTP/1.1
+>>> CONNECT signal-beacon.s-onetag.com:443 HTTP/1.1
+>>> CONNECT vi.ml314.com:443 HTTP/1.1
+>>> CONNECT cdn.ml314.com:443 HTTP/1.1
+>>> CONNECT securepubads.g.doubleclick.net:443 HTTP/1.1
+>>> CONNECT warnermediagroup-com.videoplayerhub.com:443 HTTP/1.1
+>>> CONNECT tag.wknd.ai:443 HTTP/1.1
+>>> CONNECT sb.scorecardresearch.com:443 HTTP/1.1
+>>> CONNECT onetag-geo.s-onetag.com:443 HTTP/1.1
+>>> CONNECT turnip.cdn.turner.com:443 HTTP/1.1
+>>> CONNECT turnip.cdn.turner.com:443 HTTP/1.1
+>>> CONNECT logx.optimizely.com:443 HTTP/1.1
+>>> CONNECT atlas.ngtv.io:443 HTTP/1.1
+>>> CONNECT www.i.cdn.cnn.com:443 HTTP/1.1
+>>> POST http://o.pki.goog/s/wr3/Fqc HTTP/1.1
+>>> CONNECT api.rlcdn.com:443 HTTP/1.1
+>>> CONNECT match.adsrvr.org:443 HTTP/1.1
+>>> CONNECT id.sv.rkdms.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/s/gts1d4/hv2NYBe9odA HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> CONNECT c.amazon-adsystem.com:443 HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> POST http://r3.o.lencr.org/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT signal-floors.s-onetag.com:443 HTTP/1.1
+>>> CONNECT i.jsrdn.com:443 HTTP/1.1
+>>> CONNECT secure-us.imrworldwide.com:443 HTTP/1.1
+>>> CONNECT ib.adnxs.com:443 HTTP/1.1
+>>> POST http://ocsp.globalsign.com/gsgccr3dvtlsca2020 HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> POST http://ocsp.globalsign.com/gsrsaovsslca2018 HTTP/1.1
+>>> CONNECT aax.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT mab.chartbeat.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/s/gts1d4/2wcAVrLO1m4 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT ping.chartbeat.net:443 HTTP/1.1
+>>> CONNECT cdn.boomtrain.com:443 HTTP/1.1
+>>> CONNECT config.aps.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT ml314.com:443 HTTP/1.1
+>>> CONNECT widget-pixels.outbrain.com:443 HTTP/1.1
+>>> CONNECT mv.outbrain.com:443 HTTP/1.1
+>>> CONNECT btloader.com:443 HTTP/1.1
+>>> CONNECT 1f2e7.v.fwmrm.net:443 HTTP/1.1
+>>> CONNECT amplify.outbrain.com:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> CONNECT tr.outbrain.com:443 HTTP/1.1
+>>> CONNECT wave.outbrain.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT people.api.boomtrain.com:443 HTTP/1.1
+>>> CONNECT fundingchoicesmessages.google.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://status.thawte.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT wmff.warnermediacdn.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://status.thawte.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> CONNECT db.onlinewebfonts.com:443 HTTP/1.1
+>>> CONNECT s.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT 4dd63d31aa97cd56accec8c9d046e2b4.safeframe.googlesyndication.com:443 HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT connect-metrics-collector.s-onetag.com:443 HTTP/1.1
+>>> CONNECT pagead2.googlesyndication.com:443 HTTP/1.1
+>>> CONNECT pubads.g.doubleclick.net:443 HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT pubads.g.doubleclick.net:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT smetrics.cnn.com:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> CONNECT lightning.warnermediacdn.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT onsiterecs.api.boomtrain.com:443 HTTP/1.1
+>>> CONNECT receive.wmcdp.io:443 HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> CONNECT medium.ngtv.io:443 HTTP/1.1
+>>> CONNECT ad-delivery.net:443 HTTP/1.1
+>>> CONNECT ad.doubleclick.net:443 HTTP/1.1
+>>> CONNECT cdn.id5-sync.com:443 HTTP/1.1
+>>> CONNECT api.btloader.com:443 HTTP/1.1
+>>> CONNECT mcdp-sadc1.outbrain.com:443 HTTP/1.1
+>>> CONNECT tpc.googlesyndication.com:443 HTTP/1.1
+>>> CONNECT mabping.chartbeat.net:443 HTTP/1.1
+>>> CONNECT mabping.chartbeat.net:443 HTTP/1.1
+>>> CONNECT mabping.chartbeat.net:443 HTTP/1.1
+>>> CONNECT mabping.chartbeat.net:443 HTTP/1.1
+>>> CONNECT ap.lijit.com:443 HTTP/1.1
+>>> CONNECT umto.cnn.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/s/gts1d4/DHEBPXylGAg HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> CONNECT a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com:443 HTTP/1.1
+>>> CONNECT id5-sync.com:443 HTTP/1.1
+>>> CONNECT live-manifests-aka.warnermediacdn.com:443 HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> CONNECT licensing.bitmovin.com:443 HTTP/1.1
+>>> POST http://ocsp.godaddy.com/ HTTP/1.1
+>>> CONNECT a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com:443 HTTP/1.1
+>>> POST http://r3.o.lencr.org/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT a6709203f34992a5095d2bc7ceaf2ec504f651a8.ipv4.cws.conviva.com:443 HTTP/1.1
+>>> CONNECT a6709203f34992a5095d2bc7ceaf2ec504f651a8.ipv6.cws.conviva.com:443 HTTP/1.1
+bad
+>>> CONNECT a6709203f34992a5095d2bc7ceaf2ec504f651a8.ipv4.cws.conviva.com:443 HTTP/1.1
+>>> CONNECT agent.intentiq.com:443 HTTP/1.1
+>>> CONNECT api.intentiq.com:443 HTTP/1.1
+>>> CONNECT sync.intentiq.com:443 HTTP/1.1
+>>> CONNECT images.outbrainimg.com:443 HTTP/1.1
+>>> CONNECT libs.outbrain.com:443 HTTP/1.1
+>>> CONNECT mcdp-sadc1.outbrain.com:443 HTTP/1.1
+>>> CONNECT images.outbrainimg.com:443 HTTP/1.1
+>>> CONNECT vod-media-aka.warnermediacdn.com:443 HTTP/1.1
+>>> CONNECT sync.outbrain.com:443 HTTP/1.1
+>>> CONNECT vod-media-aka.warnermediacdn.com:443 HTTP/1.1
+>>> CONNECT static.vidazoo.com:443 HTTP/1.1
+>>> CONNECT player.aniview.com:443 HTTP/1.1
+>>> CONNECT server4.vidazoo.com:443 HTTP/1.1
+>>> CONNECT observe.aniview.com:443 HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> CONNECT s.cdn.turner.com:443 HTTP/1.1
+>>> POST http://status.geotrust.com/ HTTP/1.1
+>>> CONNECT live-media-aka.warnermediacdn.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT server4.vidazoo.com:443 HTTP/1.1
+>>> CONNECT player.aniview.com:443 HTTP/1.1
+>>> CONNECT player.aniview.com:443 HTTP/1.1
+>>> CONNECT player.aniview.com:443 HTTP/1.1
+>>> CONNECT atom.warnermedia.com:443 HTTP/1.1
+>>> CONNECT atom.warnermedia.com:443 HTTP/1.1
+>>> CONNECT dqif5bl25s0bf.cloudfront.net:443 HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> POST http://ocsp.r2m03.amazontrust.com/ HTTP/1.1
+>>> CONNECT pixel.adsafeprotected.com:443 HTTP/1.1
+>>> CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+>>> CONNECT turnip.cdn.turner.com:443 HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> CONNECT id5-sync.com:443 HTTP/1.1
+>>> CONNECT static.adsafeprotected.com:443 HTTP/1.1
+>>> CONNECT dt.adsafeprotected.com:443 HTTP/1.1
+>>> CONNECT bea4.v.fwmrm.net:443 HTTP/1.1

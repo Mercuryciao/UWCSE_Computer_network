@@ -1,0 +1,23 @@
+>>> CONNECT www.google.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.gstatic.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT ogs.google.com:443 HTTP/1.1
+>>> CONNECT apis.google.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT fonts.gstatic.com:443 HTTP/1.1
+>>> CONNECT fonts.gstatic.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT play.google.com:443 HTTP/1.1
+>>> CONNECT play.google.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer

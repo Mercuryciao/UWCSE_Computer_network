@@ -1,0 +1,71 @@
+>>> CONNECT youtu.be:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.youtube.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> CONNECT i.ytimg.com:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT fonts.googleapis.com:443 HTTP/1.1
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT fonts.gstatic.com:443 HTTP/1.1
+>>> CONNECT rr5---sn-nx57ynss.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT accounts.google.com:443 HTTP/1.1
+>>> CONNECT googleads.g.doubleclick.net:443 HTTP/1.1
+>>> CONNECT rr2---sn-q4fl6ns6.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr2---sn-q4fl6ns6.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr2---sn-nx5s7n7y.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr2---sn-nx5s7n7y.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT tpc.googlesyndication.com:443 HTTP/1.1
+>>> CONNECT rr2---sn-nx5s7nee.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT rr1---sn-q4flrnee.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr1---sn-q4flrnee.googlevideo.com:443 HTTP/1.1
+>>> CONNECT pagead2.googlesyndication.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT rr1---sn-q4flrnee.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr1---sn-q4flrnee.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT rr1---sn-q4flrnee.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr1---sn-q4flrnee.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT jnn-pa.googleapis.com:443 HTTP/1.1
+>>> CONNECT static.doubleclick.net:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.gstatic.com:443 HTTP/1.1
+>>> CONNECT www.google.com:443 HTTP/1.1
+>>> CONNECT yt3.ggpht.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.gstatic.com:443 HTTP/1.1

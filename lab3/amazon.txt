@@ -1,0 +1,96 @@
+>>> CONNECT www.amazon.com:443 HTTP/1.1
+>>> CONNECT edge-chat.facebook.com:443 HTTP/1.1
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT aax-us-iad.amazon.com:443 HTTP/1.1
+>>> CONNECT aax-us-iad.amazon.com:443 HTTP/1.1
+>>> CONNECT completion.amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+>>> CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> 
+Error handling client: [Errno 61] Connection refused
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> 
+Error handling client: [Errno 61] Connection refused
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+>>> CONNECT m.media-amazon.com:443 HTTP/1.1
+>>> CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT fls-na.amazon.com:443 HTTP/1.1
+>>> CONNECT unagi.amazon.com:443 HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+>>> CONNECT aax-us-iad.amazon.com:443 HTTP/1.1
+>>> CONNECT aax-us-iad.amazon.com:443 HTTP/1.1
+>>> CONNECT s.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT unagi-na.amazon.com:443 HTTP/1.1
+>>> CONNECT cookie-matching.mediarithmics.com:443 HTTP/1.1
+>>> CONNECT c1.adform.net:443 HTTP/1.1
+>>> CONNECT loadus.exelator.com:443 HTTP/1.1
+>>> CONNECT usersync.samplicio.us:443 HTTP/1.1
+>>> CONNECT ssum-sec.casalemedia.com:443 HTTP/1.1
+>>> CONNECT dpm.demdex.net:443 HTTP/1.1
+>>> CONNECT usersync.gumgum.com:443 HTTP/1.1
+>>> CONNECT image6.pubmatic.com:443 HTTP/1.1
+>>> CONNECT uipglob.semasio.net:443 HTTP/1.1
+>>> CONNECT cms.analytics.yahoo.com:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> CONNECT ups.analytics.yahoo.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.globalsign.com/gsgccr3dvtlsca2020 HTTP/1.1
+>>> CONNECT s.amazon-adsystem.com:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+>>> POST http://ocsp.r2m02.amazontrust.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT cm.g.doubleclick.net:443 HTTP/1.1
+>>> CONNECT ib.adnxs.com:443 HTTP/1.1
+>>> CONNECT unagi.amazon.com:443 HTTP/1.1

@@ -1,0 +1,30 @@
+>>> CONNECT www.nytimes.com:443 HTTP/1.1
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT purr.nytimes.com:443 HTTP/1.1
+>>> CONNECT als-svc.nytimes.com:443 HTTP/1.1
+>>> CONNECT www.googletagmanager.com:443 HTTP/1.1
+>>> CONNECT samizdat-graphql.nytimes.com:443 HTTP/1.1
+>>> CONNECT a.et.nytimes.com:443 HTTP/1.1
+>>> CONNECT o82024.ingest.sentry.io:443 HTTP/1.1
+>>> CONNECT sb.scorecardresearch.com:443 HTTP/1.1
+>>> CONNECT aax.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT a.nytimes.com:443 HTTP/1.1
+>>> CONNECT iteratehq.com:443 HTTP/1.1
+>>> CONNECT atr.veritonicmetrics.com:443 HTTP/1.1
+>>> CONNECT s.amazon-adsystem.com:443 HTTP/1.1
+>>> CONNECT www.facebook.com:443 HTTP/1.1
+>>> CONNECT insight.adsrvr.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.globalsign.com/gsgccr3dvtlsca2020 HTTP/1.1
+>>> CONNECT collector.brandmetrics.com:443 HTTP/1.1
+>>> CONNECT pixel.rubiconproject.com:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT match.adsrvr.org:443 HTTP/1.1
+>>> POST http://ocsp.globalsign.com/gsgccr3dvtlsca2020 HTTP/1.1
+>>> CONNECT 5290727.fls.doubleclick.net:443 HTTP/1.1
+>>> CONNECT adservice.google.com:443 HTTP/1.1
+>>> CONNECT notes.us.edstem.org:443 HTTP/1.1

@@ -1,0 +1,76 @@
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> POST http://ocsp.sectigo.com/ HTTP/1.1
+>>> CONNECT homes.cs.washington.edu:443 HTTP/1.1
+>>> CONNECT www.youtube.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> CONNECT fonts.gstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.google-analytics.com:443 HTTP/1.1
+>>> CONNECT fonts.gstatic.com:443 HTTP/1.1
+>>> CONNECT stats.g.doubleclick.net:443 HTTP/1.1
+>>> CONNECT googleads.g.doubleclick.net:443 HTTP/1.1
+>>> CONNECT jnn-pa.googleapis.com:443 HTTP/1.1
+>>> CONNECT yt3.ggpht.com:443 HTTP/1.1
+>>> CONNECT play.google.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT rr2---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr2---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr3---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr3---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> CONNECT play.google.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> CONNECT rr2---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT rr2---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr4---sn-nx57ynse.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr4---sn-nx57ynse.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr5---sn-nx57ynse.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr5---sn-nx57ynse.googlevideo.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443 HTTP/1.1
+>>> CONNECT yt3.ggpht.com:443 HTTP/1.1
+>>> CONNECT i.ytimg.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT yt3.ggpht.com:443 HTTP/1.1
+>>> CONNECT yt3.ggpht.com:443 HTTP/1.1
+>>> CONNECT edge-chat.facebook.com:443 HTTP/1.1
+>>> CONNECT edge-chat.facebook.com:443 HTTP/1.1
+>>> CONNECT edge-chat.facebook.com:443 HTTP/1.1
+>>> CONNECT yt3.ggpht.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1

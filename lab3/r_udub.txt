@@ -1,0 +1,65 @@
+>>> CONNECT www.reddit.com:443 HTTP/1.1
+>>> CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1
+>>> POST http://ocsp.digicert.com/ HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> 
+Error handling client: [Errno 61] Connection refused
+>>> 
+Error handling client: [Errno 61] Connection refused
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> 
+Error handling client: [Errno 61] Connection refused
+>>> 
+Error handling client: [Errno 61] Connection refused
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> 
+Error handling client: [Errno 61] Connection refused
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT external-preview.redd.it:443 HTTP/1.1
+>>> CONNECT styles.redditmedia.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT w3-reporting.reddit.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+>>> CONNECT www.redditstatic.com:443 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT ad-delivery.net:443 HTTP/1.1
+>>> CONNECT accounts.google.com:443 HTTP/1.1
+>>> CONNECT accounts.google.com:443 HTTP/1.1
+>>> CONNECT accounts.google.com:443 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+>>> POST http://ocsp.pki.goog/gts1c3 HTTP/1.1
+Error handling client: [Errno 54] Connection reset by peer
+Error handling client: [Errno 54] Connection reset by peer
+>>> CONNECT gateway.facebook.com:443 HTTP/1.1
+>>> CONNECT w3-reporting.reddit.com:443 HTTP/1.1
+>>> CONNECT edge-chat.facebook.com:443 HTTP/1.1
