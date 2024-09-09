@@ -1,4 +1,4 @@
-# CSE461_computer_network
+# CSE_computer_network
 
 ## Lab 1: Socket Programming
 Implement both a client and a server that follow a defined protocol for communication. The client extracts secrets from the server at each stage, while the server validates the client's adherence to the protocol and responds accordingly. Proper handling of both UDP and TCP protocols, packet validation, and error handling are key aspects of this lab.
